@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "first number".to_i
+first_number = 25
